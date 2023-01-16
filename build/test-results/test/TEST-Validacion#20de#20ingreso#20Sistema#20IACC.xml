@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Validacion de ingreso Sistema IACC" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-01-16T20:50:23" hostname="DESKTOP-6HASJOF" time="18.162">
+  <properties/>
+  <testcase name="01-Ingreso a Portal Sistema IACC - Ingreso OK" classname="Validacion de ingreso Sistema IACC" time="7.368"/>
+  <testcase name="02-Ingreso a Portal Sistema IACC - Ingreso Usuario Invalido" classname="Validacion de ingreso Sistema IACC" time="5.374"/>
+  <testcase name="03-Ingreso a Portal Sistema IACC - Ingreso Clave Invalida" classname="Validacion de ingreso Sistema IACC" time="5.42"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 109.0.5414.74 (e7c5703604daa9cc128ccf5a5d3e993513758913-refs/branch-heads/5414@{#1172}) on port 22335
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+ene 16, 2023 5:50:26 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+Starting ChromeDriver 109.0.5414.74 (e7c5703604daa9cc128ccf5a5d3e993513758913-refs/branch-heads/5414@{#1172}) on port 43505
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+ene 16, 2023 5:50:32 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+Starting ChromeDriver 109.0.5414.74 (e7c5703604daa9cc128ccf5a5d3e993513758913-refs/branch-heads/5414@{#1172}) on port 3142
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+ene 16, 2023 5:50:38 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
